@@ -1,0 +1,32 @@
+{
+    "compilerOptions": {
+        "sourceMap": true,
+        "declaration": true,
+        "target": "es2020",
+        "module": "esnext",
+        "moduleResolution": "bundler",
+        "declarationMap": true,
+        "noUncheckedIndexedAccess": true,
+        "exactOptionalPropertyTypes": false,
+        "esModuleInterop": true,
+        "resolveJsonModule": true,
+        "strict": true,
+        "verbatimModuleSyntax": true,
+        "isolatedModules": true,
+        "noUncheckedSideEffectImports": true,
+        "moduleDetection": "force",
+        "skipLibCheck": true,
+        "allowJs": true,
+        "allowImportingTsExtensions": true,
+        "rewriteRelativeImportExtensions": true,
+        "types": [
+            "node"
+        ],
+        "outDir": "dist"
+        // "noEmit": true
+    },
+    "include": [
+        "./**/*.ts",
+        "./*.config.ts",
+    ],
+}

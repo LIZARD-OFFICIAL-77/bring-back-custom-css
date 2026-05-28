@@ -1,0 +1,1 @@
+[INSTALL TAMPERMONKEY](https://github.com/LIZARD-OFFICIAL-77/bring-back-custom-css/raw/HEAD/build/tampermonkey.user.js)
